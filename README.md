@@ -195,6 +195,7 @@ $(document).ready(function() {
       </tbody>
   </table>
 </body>
+
 <script>
   $(document).ready(function() {
      const PermissionObjects = [
