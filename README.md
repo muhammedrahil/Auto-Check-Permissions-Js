@@ -4,7 +4,7 @@
 
 The `Auto-Check-Permissions` repository provides a JavaScript utility class that helps developers manage and enforce user permissions on the client side. This tool is useful for dynamically adjusting the UI based on the permissions assigned to a user, such as enabling or disabling buttons, hiding elements, or restricting access to certain actions.
 
-## Features
+## Features 
 
 - **Dynamic Permission Checking:** Automatically checks user permissions and updates the UI accordingly.
 - **Element Control:** Disables, hides, or modifies elements based on the user's permissions.
